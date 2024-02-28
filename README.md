@@ -1,2 +1,3 @@
-Criação do projeto "Forniture Store"<br>
-Usando como ferramenta VScode, HTML5, CSS3 e JS
+Criação do projeto "Forniture Store" Loja de móveis<br>
+tecnologia utilizada.
+VSCode, HTML5, CSS3.
